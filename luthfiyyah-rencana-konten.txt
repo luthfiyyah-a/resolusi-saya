@@ -4,7 +4,7 @@ bismillah, pengen buat konten :
 - contoh pentingnya bahasa arab (dalam memaknai al-quran / hadist)
 - tutorial dasar pemrograman dengan bahasa c
 - pembahasan toki dasar pemrograman dan kompetitif pemrograman dengan bahasa c
+- belajar kompetitif programming menggunakan bukunya toki
 - belajar kompetitif programming dengan membahas soal-soal dari online judge
 - belajar struktur data menggunakan bahasa c
 - reminder / motivasi (islami)
-- tiktok -> curhat, sharing
